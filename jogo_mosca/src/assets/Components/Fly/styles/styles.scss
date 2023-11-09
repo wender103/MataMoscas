@@ -1,0 +1,20 @@
+div.container_fly {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: 500px;
+    bottom: 500px;
+
+    &.flipped img {
+        transform: rotateY(180deg);
+    }
+
+    img {
+        width: 100%;
+        object-fit: contain;
+    }
+
+}
