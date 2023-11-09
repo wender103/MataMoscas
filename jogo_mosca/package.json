@@ -2,7 +2,7 @@
   "name": "jogo_mosca",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://wender103.github.io/MataMoscas",
+  "homepage": ".",
   "type": "module",
   "scripts": {
     "dev": "vite",
