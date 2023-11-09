@@ -2,7 +2,7 @@
   "name": "jogo_mosca",
   "private": true,
   "version": "0.0.0",
-  "homepage": "./",
+  "homepage": "https://wender103.github.io/MataMoscas/jogo_mosca/disc/",
   "type": "module",
   "scripts": {
     "dev": "vite",
